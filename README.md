@@ -2,7 +2,8 @@
 Does exposure to information on ethnic discrimination affect beliefs about inequality and support for affirmative action? A preregistered population-based survey-experiment
 
 # Paper
-Our paper can be accessed at the following url: [TBA]
+Our paper can be accessed at the following url: https://doi.org/10.1111/pops.70059
+
 
 # Data
 Our data is available from https://www.dataarchive.lissdata.nl/
